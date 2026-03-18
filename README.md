@@ -1,1 +1,5 @@
-# odoniris_4
+# OdonIris, la banque de données interprétative des odonymes de la Région de Bruxelles-Capitale
+
+[FR] La base de données OdonIris est une classification exhaustive des noms officiels des espaces publics de la Région de Bruxelles-Capitale, destinée à l'étude de l'odonymie. Elle rassemble tous les odonymes géolocalisés et, pour chacun d'entre eux, fournit l'identification du terme générique (type de voie ou de lieu) ainsi qu'une interprétation du terme spécifique, ce qui permet de les classer en macro-catégories, catégories et sous-catégories, offrant ainsi une lecture plus large et plus nuancée du territoire à travers ses toponymes. Description et publications associées disponibles sur https://ebxl.be/les-outils/toponymie/.
+ 
+[EN] OdonIris dataset is a comprehensive classification of official public spaces names in the Brussels-Capital Region for the purpose of studying odonymy. It brings together all geolocated odonyms and, for each one, provides the identification of the generic term (type of road or place) and an interpretation of the specific term, allowing them to be classified into macro-categories, categories and subcategories, thus offering a broader and more nuanced reading of the territory through its toponyms. Description and linked publications available on https://ebxl.be/les-outils/toponymie/.
